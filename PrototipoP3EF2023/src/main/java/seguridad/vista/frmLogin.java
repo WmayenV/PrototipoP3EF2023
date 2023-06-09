@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 import seguridad.controlador.clsUsuarioConectado;
 import seguridad.controlador.clsBitacora;
 import seguridad.controlador.clsSeguridad;
-import AsignacionCursos.Vista.MdiAsignacion;
+import AsignacionCursos.Vista.MdiAsignacion;//eror
 /**
  *
  * @author visitante
