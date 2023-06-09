@@ -10,5 +10,9 @@ package seguridad.controlador;
  * @author willy
  */
 public class clsSeguridad {
+
+    public Object encode(String pass) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }
